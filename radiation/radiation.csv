@@ -1,4 +1,4 @@
-counter [s],Channel 1-425nm [mV],Channel 2-500nm [mV],Channel 3-610nm [mV]
+time [s],425nm [mV],Channel 2-500nm [mV],Channel 3-610nm [mV]
 0,2.024,2.241,5.445
 20,2.024,2.263,5.565
 40,2.537,7.486000000000001,39.396
